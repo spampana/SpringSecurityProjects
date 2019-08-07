@@ -45,7 +45,7 @@ On Add Employee get the security exception
 <br/>
 
 
-Logout. And login using the credentials using javainuse and javainuse User will be able to view all pages including the add employee page. 
+Logout. And login using the credentials using satya and satya User will be able to view all pages including the add employee page. 
 
 <img src="https://www.javainuse.com/boot-35_12.jpg"/>
 <br/>
