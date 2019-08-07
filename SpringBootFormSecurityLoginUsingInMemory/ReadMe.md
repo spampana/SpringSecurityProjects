@@ -1,4 +1,4 @@
-<table border="1">
+<table border="0">
 	<tr>
 		<th>Username>/th>
 		<th>Role</th>
@@ -26,7 +26,6 @@
 Go to localhost:8080/welcome, we will be redirected to the default login page. 
 <img src="https://www.javainuse.com/boot-35_1.jpg"/>
 <br/>
-
 Enter wrong password. 
 <img src="https://www.javainuse.com/boot-35_11.jpg"/>
 <br/>
